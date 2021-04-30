@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-喜欢前端。
+喜欢前端，始于2019年，终于。。。
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yayaluoya&theme=blueberry&show_icons=true)
 
