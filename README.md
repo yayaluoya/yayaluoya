@@ -65,6 +65,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yayaluoya&theme=blueberry&show_icons=true)
 
 😀😃😄😁😆😅🤣😂🙂
+🌈🌈🌈⚡⚡⚡🦄🦄🦄
 
 <!--
 **yayaluoya/yayaluoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
