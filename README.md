@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world 👋
 
 喜欢前端，始于2019年，终于。。。
 
@@ -6,7 +6,7 @@
 
 <details>
 <summary>
-19年学习的内容-初入前端
+2019年-初入前端
 </summary>
 
 - 前端三大金刚 JavaScript/HTML5/css 基础
@@ -17,11 +17,9 @@
 
 </details>
 
-#
-
 <details>
 <summary>
-20年学习的内容-了解前端
+2020年-了解前端
 </summary>
 
 - thinkPHP3.2
@@ -41,14 +39,12 @@
 
 </details>
 
-#
-
 <details>
 <summary>
-21年需要学习的内容🚀-深入前端
+21年-深入前端🚀
 </summary>
 
-- 看几本图书
+- 看几本图书，多抽点时间学习，锻炼身体。
 - 学习js的各个细节。
 - 看书@红宝书
 - 看书@深入浅出node.js
@@ -58,21 +54,33 @@
 - 看书@css揭秘
 - 复习正则表达式+看书@学习正则表达式
 - 学习tcp/ip协议族，了解基础就行
-- 💪
+- 💪💪💪
 
 </details>
 
+<br/>统计数据🔻</br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yayaluoya&theme=blueberry&show_icons=true)
+<br/>使用语言数据🔻</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yayaluoya&layout=compact)](https://github.com/yayaluoya)
+
 
 😀😃😄😁😆😅🤣😂🙂
 
 <details>
 <summary>
-未来开发计划 🚩🚩🚩
+未来开发计划 🏳️‍🌈🏳️‍🌈🏳️‍🌈
 </summary>
   
-- yayaluoya的博客
+- yayaluoya的博客 ⚪
   
-  记录自己日常的开发生活，一个静态博客，编辑器在本地，本身就是一个git仓库，所有东西都存在git仓库里面。
+  记录自己日常的开发生活，一个静态博客，编辑器在本地，编辑完了就传到服务器的仓库里面就OK了，本身就是一个git仓库，所有东西都存在git仓库里面。
+
+- 弹幕日记 ⚪
+
+  通过弹幕的形式来显示阅读日记，并且用类似版本管理的思想来管理日记，写了就不能更改了，即使改了也只是新加一个版本而已。
+
+- 学习笔记 ⚪
+
+  分享很多方便学习的工具，便签啥的，让学习更加轻松，多样化。
   
 </details>
