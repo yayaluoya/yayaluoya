@@ -68,6 +68,17 @@
 
 <details>
 <summary>
+个人站点 🍭🍭🍭
+</summary>
+  
+- 站搜搜 🟢
+  
+  一个非常方便的导航网站，zhansousou.com。
+  
+</details>
+
+<details>
+<summary>
 未来开发计划 🏳️‍🌈🏳️‍🌈🏳️‍🌈
 </summary>
   
@@ -82,16 +93,5 @@
 - 花样学习 ⚪
 
   分享很多方便学习的工具，便签啥的，让学习更加轻松，多样化。
-  
-</details>
-
-<details>
-<summary>
-个人站点 🍭🍭🍭
-</summary>
-  
-- 站搜搜 🟢
-  
-  一个非常方便的导航网站，zhansousou.com。
   
 </details>
