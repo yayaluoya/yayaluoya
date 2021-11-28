@@ -52,8 +52,10 @@
 - 看书@学习JavaScript数据结构与算法
 - 看书@JavaScript设计模式与开发实践
 - 看书@css揭秘
+- 看书@html5与css3核心技法
+- 看书@TypeScript编程
 - 复习正则表达式+看书@学习正则表达式
-- 学习tcp/ip协议族，了解基础就行
+- 学习tcp/ip协议族，了解基础
 - 加油加油加油💪💪💪
 
 </details>
