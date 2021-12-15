@@ -73,12 +73,16 @@
 
 <details>
 <summary>
-个人站点 🍭🍭🍭
+个人项目 🍭🍭🍭
 </summary>
   
 - 站搜搜 🟢
   
-  一个非常方便的导航网站，[站搜搜导航](https://www.zhansousou.com/mini)。
+  一个非常方便的导航网站，[站搜搜导航](https://www.zhansousou.com/mini)。技术栈为前端：vue2 + element + (nuxt.js + redis [后端渲染使用])，后端：php + thinkPHP3.2 + mysql。
+  
+- 微信小程序@每日随机事件
+  
+  每天随机派发一个事件。技术栈为前端：vue3 + antd，微信小程序ts + sass + vant，后端：nest.js + mysql。
   
 </details>
 
