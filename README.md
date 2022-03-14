@@ -84,6 +84,10 @@
   
   每天随机派发一个事件。技术栈为前端：vue3 + antd，微信小程序ts + sass + vant，后端：nest.js + mysql。
   
+- 我的博客
+  
+  yayaluoya的个人博客。技术栈为前端：vue3 + element，后端：nest.js + mysql。
+  
 </details>
 
 <details>
