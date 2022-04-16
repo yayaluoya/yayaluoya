@@ -6,7 +6,7 @@
 
 <details>
 <summary>
-2019年-初入前端
+19年-初入前端
 </summary>
 
 - 前端三大金刚 JavaScript/HTML5/css 基础
@@ -19,7 +19,7 @@
 
 <details>
 <summary>
-2020年-了解前端
+20年-了解前端
 </summary>
 
 - thinkPHP3.2
@@ -48,24 +48,23 @@
 
 - 看几本图书，多抽点时间学习，锻炼身体，打打球啥的。
 - 学习js的各个细节。
-- 看书@红宝书
-- 看书@深入浅出node.js
-- 看书@你不知道的JavaScript上中卷
+- 看书@红宝书✔️
+- 看书@深入浅出node.js✔️
+- 看书@你不知道的JavaScript上中卷✔️
 - 看书@学习JavaScript数据结构与算法
 - 看书@JavaScript设计模式与开发实践
-- 看书@css揭秘
-- 看书@html5与css3核心技法
-- 看书@TypeScript编程
-- 复习正则表达式+看书@学习正则表达式
+- 看书@css揭秘✔️
+- 看书@html5与css3核心技法✔️
+- 看书@TypeScript编程✔️
+- 复习正则表达式+看书@学习正则表达式✔️
 - 学习tcp/ip协议族，了解基础
 - 希望今年能找个稳定的，能干的开心的前端工作。
-- 加油加油加油💪💪💪
 
 </details>
 
 <details>
 <summary>
-22年-做几个自己想做的东西🚀
+22年-做几个自己想做的东西🚀🚀🚀
 </summary>
 
 - 今年换了个公司，慢慢来吧
@@ -83,6 +82,7 @@
 
 
 😀😃😄😁😆😅🤣😂🙂
+----
 
 <details>
 <summary>
@@ -102,7 +102,7 @@
   yayaluoya的个人博客。技术栈为前端：vue3 + element，后端：nest.js + mysql。
   
 </details>
-
+<br/>
 <details>
 <summary>
 未来开发计划 🏳️‍🌈🏳️‍🌈🏳️‍🌈
