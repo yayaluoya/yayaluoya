@@ -63,6 +63,19 @@
 
 </details>
 
+<details>
+<summary>
+22年-做几个自己想做的东西🚀
+</summary>
+
+- 今年换了个公司，慢慢来吧
+- 花了几个月把我的博客做好了嘿嘿
+- 装了台还不错的台式主机
+- 培养下产品思维，看看能不能抓到什么风口
+- 加油加油加油💪💪💪
+
+</details>
+
 <br/>统计数据🔻</br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yayaluoya&theme=blueberry&show_icons=true)
 <br/>使用语言数据🔻</br>
