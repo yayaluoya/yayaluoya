@@ -26,7 +26,7 @@
 - vue2.0全家桶
 - 学了点react
 - nuxt.js
-- 花了几个月时间重写了上一年做的那个网站技术栈改为前端vue3.0+nuxt.js后端thinkPHP3.2
+- 花了几个月时间重写了上一年做的那个网站技术栈改为前端vue2x+nuxt.js后端thinkPHP3.2
 - Redis
 - Nginx
 - python学了点皮毛，包括框架Django，但是环境太难搭学到勉强把教程看了，没有实践过。
@@ -96,11 +96,11 @@
   
   一个非常方便的导航网站，[站搜搜导航](https://www.zhansousou.com/mini)。技术栈为前端：vue2 + element + (nuxt.js + redis [后端渲染使用])，后端：php + thinkPHP3.2 + mysql。
   
-- 微信小程序@每日随机事件
+- 微信小程序@每日随机事件 ⚪
   
   每天随机派发一个事件。技术栈为前端：vue3 + antd，微信小程序ts + sass + vant，后端：nest.js + mysql。
   
-- 我的博客
+- 我的博客 🟢
   
   yayaluoya的个人博客。技术栈为前端：vue3 + element，后端：nest.js + mysql。
   
