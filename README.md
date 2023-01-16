@@ -108,7 +108,7 @@
   
 - 前端变量管理工具 🟢
 
-  https://web-vars.zhansousou.com
+  https://web-vars.top
   
   一个方便管理前端变量的工具网站。技术栈为前端：vue3 + element，后端：nest.js + mysql。
   
