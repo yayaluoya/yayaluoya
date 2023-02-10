@@ -120,6 +120,12 @@
   
   一个方便管理前端变量的工具网站。技术栈为前端：vue3 + element，后端：nest.js + mysql。
   
+- 好玩的openAi 🟢
+
+  https://openai.dumogu.top
+  
+  简单的调了一下openai的接口，非常不稳定，等GPT-4出来再继续搞吧。
+  
 </details>
 <br/>
 <details>
