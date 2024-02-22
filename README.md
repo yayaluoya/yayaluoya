@@ -79,7 +79,17 @@
 
 <details>
 <summary>
-23年-做一个能盈利的项目🚀🚀🚀
+23年-努力工作了一年
+</summary>
+
+- 勤勤恳恳在公司工作
+- 做了很多个项目
+
+</details>
+
+<details>
+<summary>
+24年-好好锻炼一下🚀🚀🚀
 </summary>
 
 - 加油加油加油💪💪💪
