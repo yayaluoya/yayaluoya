@@ -135,6 +135,18 @@
   https://openai.dumogu.top
   
   简单的调了一下openai的接口，非常不稳定，等GPT-4出来再继续搞吧。
+
+  - 像素大战聚力 🟢
+
+  https://pixels.dumogu.top/
+  
+  大家一起配合在像素大战上展示一张完整图片的工具网站，技术栈为前端：vue3 + element，后端：nest.js + mysql。
+
+  - codess
+ 
+  https://codess.dumogu.top/
+
+  这是一个生成vscode代码片段的工具网站，配合有一个node的cli工具打包代码片段。技术栈为前端 vue3 + element，后端：express.js + mysql。cli 纯ts写的。
   
 </details>
 <br/>
