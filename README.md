@@ -4,102 +4,6 @@
 
 ---
 
-<details>
-<summary>
-19年-初入前端
-</summary>
-
-- 前端三大金刚 JavaScript/HTML5/css 基础
-- jQuery
-- PHP 基础
-- MySQL 基础
-- 做了一个自己的网站，技术栈为前端 jQuery+后端 php
-
-</details>
-
-<details>
-<summary>
-20年-前端工作
-</summary>
-
-- thinkPHP3.2
-- vue2.0 全家桶
-- 学了点 react
-- nuxt.js
-- 花了几个月时间重写了上一年做的那个网站技术栈改为前端 vue2x+nuxt.js 后端 thinkPHP3.2
-- Redis
-- Nginx
-- python 学了点皮毛，包括框架 Django，但是环境太难搭学到勉强把教程看了，没有实践过。
-- 看了几本图书，主要是三体
-- 熟练使用 Git 版本管理工具
-- 熟练使用 typeScript
-- 熟练使用 webpack 等前端构建工具
-- 用 layabox+typescript 开发小游戏
-- 做了 10 几款小游戏。
-- 利用前端思想和游戏思想为公司写了个自我感觉还不错的 layabox 小游戏框架。
-- 仿照 vite 的思想为 layabox 写了一个增量构建工具，打包速度从改行代码半分钟到 1 秒以内。
-
-</details>
-
-<details>
-<summary>
-21年-深入前端
-</summary>
-
-- 看几本图书，多抽点时间学习，锻炼身体，打打球啥的。
-- 学习 js 的各个细节。
-- 看书@红宝书 ✔️
-- 看书@深入浅出 node.js✔️
-- 看书@你不知道的 JavaScript 上中卷 ✔️
-- 看书@学习 JavaScript 数据结构与算法
-- 看书@JavaScript 设计模式与开发实践
-- 看书@css 揭秘 ✔️
-- 看书@html5 与 css3 核心技法 ✔️
-- 看书@TypeScript 编程 ✔️
-- 复习正则表达式+看书@学习正则表达式 ✔️
-- 学习 tcp/ip 协议族，了解基础
-
-</details>
-
-<details>
-<summary>
-22年-业余时间做几个自己想做的东西
-</summary>
-
-- 花了几个月把我的博客做好了嘿嘿 ✔️
-- 装了台还不错的台式主机 ✔️
-- 培养下产品思维
-- 看书@git 权威指南 ✔️
-- 看书@算法图解
-- 看书@算法导论
-
-</details>
-
-<details>
-<summary>
-23年-努力工作
-</summary>
-
-- 做了很多个项目
-- 写了很多个 node 的工具，也学了很多前端的新技术
-
-</details>
-
-<details>
-<summary>
-24年-好好锻炼一下🚀🚀🚀
-</summary>
-
-- 学学 ai 相关的东西
-- 努力学习 加油加油加油 💪💪💪
-
-</details>
-
-<br/>统计数据 🔻</br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yayaluoya&theme=blueberry&show_icons=true)
-<br/>使用语言数据 🔻</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yayaluoya&layout=compact)](https://github.com/yayaluoya)
-
 ## 😀😃😄😁😆😅🤣😂🙂
 
 <details>
@@ -159,3 +63,11 @@
 </summary>
   看不见😛😛😛
 </details>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yayaluoya/yayaluoya/master/assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yayaluoya/yayaluoya/master/assets/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yayaluoya/yayaluoya/master/assets/github-contribution-grid-snake.svg">
+</picture>
